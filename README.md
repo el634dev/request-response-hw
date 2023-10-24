@@ -20,8 +20,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Important
-- Make sure to return something after each function or the terminal will show None for the return type
-- Make sure to invoke or call the function when creating an instance
+- Make sure to return something after each function
+- Make sure to place if __name__ == '__main__' at the bottom of your python file/program
 - Make sure to have Python enivornment variables set up or you will have to use py to run the code and pip will not be recongized
   
 ## Technologies Used
